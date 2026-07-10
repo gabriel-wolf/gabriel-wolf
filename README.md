@@ -14,7 +14,7 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" height="48" width="48" />
   <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" title="PowerShell" height="48" width="48" />
-    <img src="./assets/defender.svg" alt="Microsoft Defender" title="Microsoft Defender" height="48" width="48" />
+    <img src="./assets/defender-new.svg" alt="Microsoft Defender" title="Microsoft Defender" height="48" width="48" />
 
 <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure" title="Microsoft Azure" height="48" width="48" />
   <img src="./assets/qualys.svg" alt="Qualys" title="Qualys" height="48" width="48" />
