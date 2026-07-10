@@ -22,9 +22,10 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
   
   <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" height="48" width="48" />
  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" height="48" width="48" />
+   <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" height="48" width="48" />
+
    <img src="./assets/splunk.svg" alt="Splunk" title="Splunk" height="48" width="48" />
 
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" height="48" width="48" />
   <img src="./assets/aws-dark.svg" alt="AWS" title="AWS" height="48" width="48" />
 
 
