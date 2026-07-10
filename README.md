@@ -12,14 +12,23 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 ## Technologies
 
 <p align="left">
- 
-  <img src="./assets/defender.svg" alt="Microsoft Defender" title="Microsoft Defender" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" height="48" width="48" />
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" title="PowerShell" height="48" width="48" />
+    <img src="./assets/defender.svg" alt="Microsoft Defender" title="Microsoft Defender" height="48" width="48" />
 
-  <img src="./assets/splunk.svg" alt="Splunk" title="Splunk" height="48" width="48" />
-
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Microsoft Azure" title="Microsoft Azure" height="48" width="48" />
   <img src="./assets/qualys.svg" alt="Qualys" title="Qualys" height="48" width="48" />
 
-  <img src="https://skillicons.dev/icons?i=azure,powershell,python,terraform,docker,kubernetes,aws&theme=dark" alt="Core technologies" height="48" />
+  
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" height="48" width="48" />
+ <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" height="48" width="48" />
+   <img src="./assets/splunk.svg" alt="Splunk" title="Splunk" height="48" width="48" />
+
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" height="48" width="48" />
+  <img src="./assets/aws-dark.svg" alt="AWS" title="AWS" height="48" width="48" />
+
+
+
 
   
 </p>
