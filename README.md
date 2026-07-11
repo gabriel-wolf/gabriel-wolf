@@ -6,7 +6,7 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 
 ## Featured Projects
 
-- **[SOAR Playbook Library](https://github.com/gabriel-wolf/soar-playbook-library)** — Sanitized Azure Logic Apps and Microsoft Sentinel playbooks for automated incident response, host isolation, and alert triage.
+- **[SOAR Incident Response Playbooks](https://github.com/gabriel-wolf/soar-playbook-library)** — Sanitized Azure Logic Apps and Microsoft Sentinel playbooks for automated incident response, host isolation, and alert triage.
 - **[AD-to-Qualys Automation](https://github.com/gabriel-wolf/ad-to-qualys)** — PowerShell automation that synchronizes Active Directory groups with Qualys Patch Management targeting.
 
 ## Technologies
