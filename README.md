@@ -1,6 +1,6 @@
 # Gabriel Wolf
 
-Security Engineer focused on **security automation, AI security, and vulnerability management**.
+Security Engineer focused on **security automation and AI security**.
 
 I build autonomous security workflows, enterprise remediation tooling, and secure AI integrations.
 
