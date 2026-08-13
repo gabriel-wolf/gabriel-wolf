@@ -11,7 +11,6 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 - **[Email Quarantine Remediation](https://github.com/gabriel-wolf/quarantine-campaign-remediation)** — Automates the detection, analyst review, release, ticketing, and optional allowlisting of legitimate email campaigns quarantined for DMARC failure.
 - **[Qualys Scripts](https://github.com/gabriel-wolf/qualys-scripts)** — A mix of Qualys related scripts that utilize the Qualys API. 
 
-
 ## Technologies
 
 <p align="left">
