@@ -8,6 +8,8 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 
 - **[Azure Automated IR Playbooks](https://github.com/gabriel-wolf/soar-playbook-library)** — Sanitized Azure Logic Apps and Microsoft Sentinel playbooks for automated incident response, host isolation, and alert triage.
 - **[AD-to-Qualys Automation](https://github.com/gabriel-wolf/ad-to-qualys)** — PowerShell automation that synchronizes Active Directory groups with Qualys Patch Management targeting.
+- **[Qualys Scripts](https://github.com/gabriel-wolf/qualys-scripts)** — A mix of Qualys related scripts that utilize the Qualys API. 
+
 
 ## Technologies
 
