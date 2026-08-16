@@ -9,7 +9,7 @@ I build autonomous security workflows, enterprise remediation tooling, and secur
 - **[Automated IR Playbooks](https://github.com/gabriel-wolf/soar-playbook-library)** — Azure Logic Apps and Microsoft Sentinel playbooks for automated incident response, host isolation, and alert triage.
 - **[AD-to-Qualys Automation](https://github.com/gabriel-wolf/ad-to-qualys)** — PowerShell automation that synchronizes Active Directory groups with Qualys Patch Management targeting.
 - **[Email Quarantine Remediation](https://github.com/gabriel-wolf/quarantine-campaign-remediation)** — Automates the detection, analyst review, release, ticketing, and optional allowlisting of legitimate email campaigns quarantined for DMARC failure.
-- **[Phishing Agent Remediation](https://github.com/gabriel-wolf/quarantine-campaign-remediation)** — Azure Logic App extending Microsoft Security Copilot’s Phishing Triage Agent into campaign-wide remediation of related emails, senders, attachments, and URLs.
+- **[Phishing Agent Remediation](https://github.com/gabriel-wolf/phishing-agent-remediation)** — Azure Logic App extending Microsoft Security Copilot’s Phishing Triage Agent into campaign-wide remediation of related emails, senders, attachments, and URLs.
 - **[Qualys Scripts](https://github.com/gabriel-wolf/qualys-scripts)** — A mix of Qualys related scripts that utilize the Qualys API. 
 
 ## Technologies
